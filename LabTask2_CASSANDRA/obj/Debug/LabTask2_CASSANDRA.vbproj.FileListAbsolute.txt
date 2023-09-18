@@ -1,0 +1,16 @@
+c:\users\user\documents\visual studio 2015\Projects\LabTask2_CASSANDRA\LabTask2_CASSANDRA\obj\Debug\LabTask2_CASSANDRA.vbprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\LabTask2_CASSANDRA\LabTask2_CASSANDRA\obj\Debug\LabTask2_CASSANDRA.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\LabTask2_CASSANDRA\LabTask2_CASSANDRA\obj\Debug\LabTask2_CASSANDRA.SplashScreen1.resources
+c:\users\user\documents\visual studio 2015\Projects\LabTask2_CASSANDRA\LabTask2_CASSANDRA\obj\Debug\LabTask2_CASSANDRA.vbproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\LabTask2_CASSANDRA\LabTask2_CASSANDRA\bin\Debug\LabTask2_CASSANDRA.exe.config
+c:\users\user\documents\visual studio 2015\Projects\LabTask2_CASSANDRA\LabTask2_CASSANDRA\bin\Debug\LabTask2_CASSANDRA.exe
+c:\users\user\documents\visual studio 2015\Projects\LabTask2_CASSANDRA\LabTask2_CASSANDRA\bin\Debug\LabTask2_CASSANDRA.pdb
+c:\users\user\documents\visual studio 2015\Projects\LabTask2_CASSANDRA\LabTask2_CASSANDRA\bin\Debug\LabTask2_CASSANDRA.xml
+c:\users\user\documents\visual studio 2015\Projects\LabTask2_CASSANDRA\LabTask2_CASSANDRA\obj\Debug\LabTask2_CASSANDRA.exe
+c:\users\user\documents\visual studio 2015\Projects\LabTask2_CASSANDRA\LabTask2_CASSANDRA\obj\Debug\LabTask2_CASSANDRA.xml
+c:\users\user\documents\visual studio 2015\Projects\LabTask2_CASSANDRA\LabTask2_CASSANDRA\obj\Debug\LabTask2_CASSANDRA.pdb
+c:\users\user\documents\visual studio 2015\Projects\LabTask2_CASSANDRA\LabTask2_CASSANDRA\obj\Debug\LabTask2_CASSANDRA.Form1.resources
+c:\users\user\documents\visual studio 2015\Projects\LabTask2_CASSANDRA\LabTask2_CASSANDRA\obj\Debug\LabTask2_CASSANDRA.AboutBox1.resources
+c:\users\user\documents\visual studio 2015\Projects\LabTask2_CASSANDRA\LabTask2_CASSANDRA\obj\Debug\LabTask2_CASSANDRA.Form2.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\LabTask2_CASSANDRA\LabTask2_CASSANDRA\obj\Debug\LabTask2_CASSANDRA.Form3.resources
+C:\Users\User\documents\visual studio 2015\Projects\LabTask2_CASSANDRA\LabTask2_CASSANDRA\obj\Debug\LabTask2_CASSANDRA.Login.resources
